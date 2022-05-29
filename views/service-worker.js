@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1936de62be89893176860fe0d86ede21.js"
+  "/precache-manifest.588cae1e814687b12b4dff187861eeab.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tech-phantom"});
