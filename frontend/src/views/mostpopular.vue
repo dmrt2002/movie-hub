@@ -49,7 +49,7 @@ export default {
     return {
       results: [],
       isLoading: true,
-      key: "k_72cxssc3",
+      key: "k_3vhqrt2c",
     };
   },
   async created() {

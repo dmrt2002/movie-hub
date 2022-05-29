@@ -148,7 +148,7 @@ export default {
       releaseDate:"",
       actorList: [],
       isLoading: true,
-      key: "k_72cxssc3",
+      key: "k_3vhqrt2c",
       readMoreActivated: false,
       buttonText: "Read More",
       isReviews: true,

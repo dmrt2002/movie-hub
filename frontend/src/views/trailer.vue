@@ -32,7 +32,7 @@ export default {
         return {
             id: this.$route.params.id,
             link: "",
-            key:"k_72cxssc3",
+            key:"k_3vhqrt2c",
             isLoading: true,
             notfound: false
         }
